@@ -5,7 +5,7 @@
 
 WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
 
-WHATSAPP - 94719574492
+WHATSAPP - 923425626477
 WEB SITE - http://queenelisa.42web.io/
 SUPPORT GROUP - https://t.me/queenelisasupport
 YOUTUBE - http://youtube.com/MRNIMAOFC
@@ -27,7 +27,7 @@ global.VOICE_REPLY = false
 //👇 Do you want show time on your bio use "true" want desable use "false"
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 //👇 Auto react 
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words )
@@ -52,13 +52,13 @@ global.UPLOAD_MAX = false
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['94715166712'] 
+global.owner = ['923425626477'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐐𝐔𝚵𝚵𝚴 𝚵𝐋𝚰𝐒𝚫 𝚳𝐃 3 𝛁' 
 //👇 Your name
-global.ownernma =  '𝑴𝒓 𝑵𝒊𝒎𝒂' 
+global.ownernma =  '𝑴𝒓 F@n!' 
 //👇 Sticker Author Name
 global.packname =  '𝙼𝚁 𝙽𝙸𝙼𝙰 𝙾𝙵𝙲' 
 //👇 Inbox Block Massage 
