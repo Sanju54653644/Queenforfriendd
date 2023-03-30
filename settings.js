@@ -94,9 +94,9 @@ global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Desable PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
 //👇 Desable download words
-global.IMG_BLOCKER = ["xxx","sex","mia"]
+global.IMG_BLOCKER = [""]
 //👇 Open ai API
-global.CHATGPT_API = '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'
+global.CHATGPT_API ='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'
 /*
 
    🍃 OTHER 🍃
