@@ -27,7 +27,7 @@ global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want desable use "false"
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block
-global.INBOX_BLOCK = false
+global.INBOX_BLOCK = true
 //👇 Auto react 
 global.AUTO_REACT = false
 //👇 Bad word Auto delete ( you must add bad words )
